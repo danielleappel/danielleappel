@@ -26,12 +26,13 @@ My name is Danielle Appel and I have a passion for computer science, mathematics
 </a><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/latex_icon_132257.png" width=45 align=left title="LaTeX"/></a>
 </a><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" width=45 align=left title="R"/></a>
 
-
+<br>
 
 # Connect with me 📫
 <a href="https://www.linkedin.com/in/dnappel/"><img src="https://user-images.githubusercontent.com/54872701/113720674-e1b9cb80-96bc-11eb-9b44-2790192b182d.png" height=40 align=left /></a>
 <a href="mailto:danielle.appel.98@gmail.com"><img src="https://user-images.githubusercontent.com/54872701/113721733-c7342200-96bd-11eb-9028-0b8ab96fbf0d.png" width=40 align=left /></a>
 <a href="https://www.hackerrank.com/danielle_appel_1"><img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/160_Hackerrank_logo_logos-512.png" width=40 align=left /></a>
+
 
 <!--
 **danielleappel/danielleappel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

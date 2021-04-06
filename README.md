@@ -1,5 +1,5 @@
 ## Hi there 👋 
-My name is Danielle Appel and I have a passion for computer science :computer:, mathematics :heavy_division_sign:, and learning! 
+My name is Danielle Appel and I have a passion for computer science, mathematics, and learning! 
 
 ## Education :school_satchel:
    - Simmons University, Boston, MA - May 2021

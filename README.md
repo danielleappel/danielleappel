@@ -17,10 +17,11 @@ My name is Danielle Appel and I have a passion for computer science, mathematics
 
 ## Contact me 📫
 
-<img src="https://image.flaticon.com/icons/png/512/8/8807.png" width=100 align=right>
 
 <!--
 **danielleappel/danielleappel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://image.flaticon.com/icons/png/512/8/8807.png" width=100 align=right>
 
 Here are some ideas to get you started:
 

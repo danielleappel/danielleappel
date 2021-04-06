@@ -24,10 +24,7 @@ My name is Danielle Appel and I have a passion for computer science, mathematics
 </a><img src="https://img5.androidappsapk.co/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA=s100" width=50 align=left title="VHDL"/></a>
 </a><img src="https://www.mathworks.com/responsive_image/100/0/0/0/0/cache/matlabcentral/profiles/765948.jpg" width=45 align=left title="MATLAB"/></a>
 </a><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/latex_icon_132257.png" width=50 align=left title="LaTeX"/></a>
-</a><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" width=50 align=left title="R"/></a> <br>
-
-
-
+</a><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" width=50 align=left title="R"/></a>\
 # Connect with me
 <a href="https://www.linkedin.com/in/dnappel/"><img src="https://user-images.githubusercontent.com/54872701/113720674-e1b9cb80-96bc-11eb-9b44-2790192b182d.png" height=40 align=left /></a>
 <a href="mailto:danielle.appel.98@gmail.com"><img src="https://user-images.githubusercontent.com/54872701/113721733-c7342200-96bd-11eb-9028-0b8ab96fbf0d.png" width=40 align=left /></a>

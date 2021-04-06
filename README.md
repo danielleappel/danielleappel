@@ -4,6 +4,7 @@ My name is Danielle Appel and I have a passion for computer science, mathematics
 # Education :school_satchel:
    - Simmons University, Boston, MA - May 2021
    - Bachelor of Science: Major in Mathematics, Minor in Computer Science
+   - GPA: 3.99/4.0
    - Relevant courses: Object Oriented Programming, Data Structures, Algorithms, Structure and Organization of Programming Languages, Computer Engineering, Computer Networks, Cybersecurity, Programming in Mathematics, Discrete Mathematics
 
 # Currently working on 🔭

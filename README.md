@@ -12,7 +12,7 @@ My name is Danielle Appel and I have a passion for computer science, mathematics
 
 # Finished projects :heavy_check_mark:
    - [The Hobby Book](https://github.com/danielleappel/The-Hobby-Book) - a Python GUI application to organize resources for your hobbies
-   - [Python blockchain research project](https://www.youtube.com/watch?v=4VDyByM0YqQ&list=PLOOmq9PT7w0fKUi2QU1CDRpKopRkKGcsY&index=4), code found [here](https://github.com/danielleappel/Blockchain/tree/main)
+   - [Blockchain](https://www.youtube.com/watch?v=4VDyByM0YqQ&list=PLOOmq9PT7w0fKUi2QU1CDRpKopRkKGcsY&index=4) - a Python blockchain research project & presentation, code found [here](https://github.com/danielleappel/Blockchain/tree/main)
    - [Java Compiler](https://github.com/danielleappel/Compiler) - a Java compiler written using Perl
    - [Unit Conversion Calculator](https://github.com/danielleappel/Unit_Conversion_Calculator) - a Python GUI unit conversion calculator
    - [Intro to Python](https://github.com/danielleappel/Python-Tutorial) - a brief introduction to Python with sample code

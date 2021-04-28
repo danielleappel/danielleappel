@@ -8,7 +8,8 @@ My name is Danielle Appel and I have a passion for computer science, mathematics
    - Relevant courses: Object Oriented Programming, Data Structures, Algorithms, Structure and Organization of Programming Languages, Computer Engineering, Computer Networks, Cybersecurity, Programming in Mathematics, Discrete Mathematics
 
 # Currently working on 🔭
-   - Algorithm practice
+   - Algorithm practice in Python and Java
+   - Fermat's Little Theorem and Assymetric Encryption in Python
 
 # Finished projects :heavy_check_mark:
    - [The Hobby Book](https://github.com/danielleappel/The-Hobby-Book) - a Python GUI application to organize resources for your hobbies

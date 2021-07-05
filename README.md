@@ -1,5 +1,5 @@
 # Hi there 👋 
-My name is Danielle Appel and I have a passion for computer science, mathematics, and learning! 
+My name is Danielle Appel and I am a software engineer @ Algorex Health in Boston, MA. 
 
 # Education :school_satchel:
    - Simmons University, Boston, MA - May 2021
